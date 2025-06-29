@@ -74,8 +74,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Konfigurasi JSONBin.io
-const JSONBIN_API_KEY = '$2a$10$giwjUtYZLiUbt.Ic1x8OqOLHwco.c8/CvuC6YWIHFeUZ5w2S5X0x.';
-const JSONBIN_BIN_ID = '6861983a8561e97a502e5e4f';
+const JSONBIN_API_KEY = '$2a$10$VTEE8vFrxTmOFh/FVFr6kOb221/SZ1YixE5vDm15QUB2ONA2cDDZ6';
+const JSONBIN_BIN_ID = '6861a0518561e97a502e6263';
 const JSONBIN_URL = `https://api.jsonbin.io/v3/b/${JSONBIN_BIN_ID}`;
 
 // Ambil data dari JSONBin.io
